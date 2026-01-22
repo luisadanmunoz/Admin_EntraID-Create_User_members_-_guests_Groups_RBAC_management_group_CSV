@@ -1,0 +1,3 @@
+user_principal_name,nombre_completo,nombre,apellido,departamento,puesto,grupo,password,habilitado,location,sku_id,rol_azure,tipo_usuario,entorno
+usuarioprueba@dominioprueba.onmicrosoft.com,Usuario Prueba,Usuario,Prueba,Tecnología,Administrador de Sistemas,Grupo1,PasswordSeguro123!,true,ES,,Reader,member,produccion
+usuarioprueba@gmail.com,Proveedor Servicios,Proveedor,Servicios,Operaciones,Proveedor Externo,Grupo2,,true,ES,,Contributor,guest,desarrollo
